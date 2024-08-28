@@ -1,0 +1,7 @@
+pyttsx3==2.90
+SpeechRecognition==3.10.4
+num2words
+AppOpener==1.7
+pyautogui==0.9.54
+python-dotenv
+openai==1.25.2
